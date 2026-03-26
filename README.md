@@ -69,7 +69,6 @@ Banco de dados
 O backend utiliza PostgreSQL com Prisma para modelagem e acesso aos dados.
 
 A entidade principal do sistema é:
-
 Job
 company
 role
@@ -81,6 +80,7 @@ link
 notes
 createdAt
 updatedAt
+
 Como rodar o projeto localmente
 1. Clone o repositório
 git clone LINK_DO_REPOSITORIO
@@ -124,8 +124,9 @@ Status do projeto
 
 Projeto concluído para fins de portfólio e desenvolvimento local.
 
-Neste momento, o foco principal do projeto é demonstrar:
 
+
+Neste momento, o foco principal do projeto é demonstrar:
 estrutura
 código
 lógica
@@ -139,7 +140,7 @@ favoritos
 paginação
 melhoria de responsividade
 deploy futuro
-notificações de etapas do processo
+
 
 
 Autor
